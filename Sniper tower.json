@@ -1,0 +1,42 @@
+{
+    "manifest": {
+        "author": "fluffy_firestarter#0000",
+        "name": "Sniper tower",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/tactidoge762\/Idk-what-I-m-doing\/refs\/heads\/main\/fPeClzyf.jpg",
+        "overlay_alpha": 120
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -480899096,
+        "active_channel": -1542052403,
+        "background": 0,
+        "background_secondary": 0,
+        "mention_highlight": 1028655087
+    },
+    "colors": {
+        "abc_tint_switch_track": 1869286877,
+        "brand": -662166570,
+        "brand_new_500": -478669096,
+        "link": -244183316,
+        "link_500": -264237350,
+        "primary_dark_300": -479577637,
+        "primary_dark_360": -479577637,
+        "primary_dark_400": -479577637,
+        "uikit_btn_compound_color_selector_dark": -479577637,
+        "uikit_btn_compound_color_selector_light": 2103840680,
+        "uikit_settings_item_text_color_light": -1118566231,
+        "primary_dark_200": -1644826,
+        "white_500": -1644826
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -249165999,
+        "ic_sidebar_notifications_on_dark_24dp": -11331617,
+        "ic_sidebar_pins_off_light_24dp": -11331617,
+        "ic_sidebar_pins_on_dark_24dp": -11331617,
+        "ic_thread": -11331617
+    },
+    "raws": {}
+}
